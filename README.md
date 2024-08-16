@@ -1,6 +1,4 @@
-# Table of Contents 
-
-# Summary 
+# Summary / Table of Contents
 **- Motivation:** Predict rental prices of homes given simple housing variables (e.g: bedrooms, bathrooms, sq ft, etc.).
 
 **- EDA:** Explored data to gather a feel for the dataset and also to produce cool graphs. 
@@ -17,3 +15,5 @@
 
 # EDA 
 
+![Geographic](https://github.com/user-attachments/assets/9cb07484-361a-40c1-acee-62806fd40b44)
+![bedrooms](https://github.com/user-attachments/assets/739ec0f0-671f-473c-afc2-647a11169f1e)
