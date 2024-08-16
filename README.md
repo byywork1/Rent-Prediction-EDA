@@ -15,5 +15,7 @@
 
 # EDA 
 
-![Geographic](https://github.com/user-attachments/assets/9cb07484-361a-40c1-acee-62806fd40b44)
+![collinearity_beds_baths](https://github.com/user-attachments/assets/5ce43e98-0518-4ed0-8845-670227f11941)
 ![bedrooms](https://github.com/user-attachments/assets/739ec0f0-671f-473c-afc2-647a11169f1e)
+![Geographic](https://github.com/user-attachments/assets/9cb07484-361a-40c1-acee-62806fd40b44)
+![AreaType](https://github.com/user-attachments/assets/59f48dc9-922a-43f2-a2de-58e02b8ddaeb)
