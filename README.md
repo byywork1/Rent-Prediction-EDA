@@ -11,7 +11,15 @@
 
 **- Identifying Underperforming Assets:** Discussion on how assets might be identified as "underperforming". Took an income based approach to identify underperforming assets. Learned lots of cool finance concepts like: capitalization rates, DCF. 
 
-
+Python
+NumPy
+Pandas
+Matplotlib
+scikit-learn
+Flask
+Docker
+Jupyter Notebook
+PyCharm
 
 # EDA 
 
